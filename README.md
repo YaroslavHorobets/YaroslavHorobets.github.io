@@ -1,2 +1,1 @@
 # StarNavi: Test task
-
